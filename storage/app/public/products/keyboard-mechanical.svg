@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi keyboard mekanikal</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#082d3c"/><stop offset="1" stop-color="#158b91"/></linearGradient></defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/><circle cx="320" cy="205" r="160" fill="#67e8f9" opacity=".08"/>
+  <g transform="translate(109 128) skewY(-5)"><rect width="422" height="180" rx="20" fill="#101a2b" stroke="#a5f3fc" stroke-width="6"/>
+    <g fill="#334155" stroke="#64748b" stroke-width="2">
+      <path d="M20 22h47v38H20zM76 22h47v38H76zM132 22h47v38h-47zM188 22h47v38h-47zM244 22h47v38h-47zM300 22h47v38h-47zM356 22h46v38h-46z"/>
+      <path d="M20 70h47v38H20zM76 70h47v38H76zM132 70h47v38h-47zM188 70h47v38h-47zM244 70h47v38h-47zM300 70h47v38h-47zM356 70h46v38h-46z"/>
+      <path d="M20 118h63v38H20zM92 118h220v38H92zM321 118h81v38h-81z"/>
+    </g>
+    <path d="M34 42h20m36 0h20m36 0h20m36 0h20m36 0h20m36 0h20m36 0h20" stroke="#67e8f9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M38 90h14m44 0h14m44 0h14m44 0h14m44 0h14m44 0h14m44 0h14" stroke="#fb7185" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

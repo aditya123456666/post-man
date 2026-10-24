@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi mouse gaming</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#20143b"/><stop offset="1" stop-color="#a83a82"/></linearGradient></defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/><circle cx="321" cy="207" r="136" fill="#ff51c8" opacity=".12"/>
+  <path d="M320 83c-72 0-116 56-116 133v25c0 72 42 111 116 111s116-39 116-111v-25c0-77-44-133-116-133z" fill="#202334" stroke="#ffb2e9" stroke-width="7"/>
+  <path d="M320 88v123m-115 1h230" stroke="#596078" stroke-width="5"/>
+  <rect x="308" y="109" width="24" height="49" rx="12" fill="#fa62ca"/><path d="M225 254c29 36 65 51 95 51s66-15 95-51" fill="none" stroke="#fa62ca" stroke-width="9" stroke-linecap="round"/>
+  <path d="M163 210c-22 0-34 25-22 42l16 21 27-35zM477 210c22 0 34 25 22 42l-16 21-27-35z" fill="#91f2ff" opacity=".85"/>
+</svg>

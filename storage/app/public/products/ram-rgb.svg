@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi modul RAM RGB</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#262049"/><stop offset="1" stop-color="#7543a9"/></linearGradient><linearGradient id="rgb" x2="1"><stop stop-color="#2dd4bf"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/><circle cx="322" cy="207" r="150" fill="#ddd6fe" opacity=".08"/>
+  <g transform="rotate(-8 320 210)"><rect x="119" y="151" width="402" height="117" rx="18" fill="#252a42" stroke="#ddd6fe" stroke-width="6"/>
+    <rect x="148" y="174" width="344" height="21" rx="10" fill="url(#rgb)"/>
+    <g fill="#111827" stroke="#64748b" stroke-width="4"><rect x="163" y="209" width="57" height="42" rx="5"/><rect x="233" y="209" width="57" height="42" rx="5"/><rect x="303" y="209" width="57" height="42" rx="5"/><rect x="373" y="209" width="57" height="42" rx="5"/><rect x="443" y="209" width="45" height="42" rx="5"/></g>
+    <path d="M160 268v17h18v-17m18 0v17h18v-17m18 0v17h18v-17m18 0v17h18v-17m18 0v17h18v-17m18 0v17h18v-17m18 0v17h18v-17m18 0v17h18v-17m18 0v17h18v-17" stroke="#fbbf24" stroke-width="5"/>
+  </g>
+</svg>

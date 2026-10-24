@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi kursi gaming</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#342013"/><stop offset="1" stop-color="#ad5b2f"/></linearGradient></defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/><circle cx="320" cy="205" r="145" fill="#fed7aa" opacity=".1"/>
+  <path d="M247 76q-12-15 5-23l29-15h78l29 15q17 8 5 23l-23 52H270z" fill="#2b2130" stroke="#fed7aa" stroke-width="6"/>
+  <path d="M251 136h138l26 139q4 19-17 23H242q-21-4-17-23z" fill="#35293a" stroke="#fdba74" stroke-width="7"/>
+  <path d="M267 151h105l16 102H251z" fill="#d95154"/><path d="M270 258h102l-5 34H275z" fill="#20263a"/>
+  <path d="M254 294 224 350m148-56 30 56m-178 0h76m72 0h76m-112-56v57" stroke="#d6d3d1" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="224" cy="355" r="10" fill="#111827"/><circle cx="402" cy="355" r="10" fill="#111827"/>
+</svg>

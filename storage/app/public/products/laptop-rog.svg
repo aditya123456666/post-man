@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi laptop gaming</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171b3b"/><stop offset="1" stop-color="#6657d9"/></linearGradient><linearGradient id="screen" x2="1" y2="1"><stop stop-color="#5ee7ff"/><stop offset="1" stop-color="#a346ff"/></linearGradient></defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/><circle cx="505" cy="95" r="82" fill="#fff" opacity=".06"/>
+  <path d="M177 101q0-13 14-13h260q14 0 14 13v176H177z" fill="#111827" stroke="#a5b4fc" stroke-width="5"/>
+  <rect x="193" y="104" width="256" height="153" rx="5" fill="url(#screen)"/><path d="M207 230 277 148l48 47 44-62 65 97z" fill="#10142c" opacity=".72"/>
+  <path d="M155 278h332l39 44q4 7-9 11H128q-13-4-9-11z" fill="#cbd5e1"/><path d="M252 289h138l-9 13H261z" fill="#64748b"/>
+  <path d="m309 128 14-12 14 12-14 12z" fill="#fff" opacity=".8"/>
+</svg>
